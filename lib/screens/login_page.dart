@@ -4,6 +4,8 @@ import 'package:diu_go/screens/sign_up.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
+import '../widgets/bottonbar.dart';
+
 
 class LogInPage extends StatefulWidget {
   @override
@@ -103,7 +105,7 @@ class _LogInPageState extends State<LogInPage> {
                       onPressed: () {
                         Navigator.push(
                           context,
-                          MaterialPageRoute(builder: (context) => HomePage()),
+                          MaterialPageRoute(builder: (context) => BottomNavigation()),
                         );
                       },
                       child: Text(

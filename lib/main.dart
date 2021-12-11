@@ -2,6 +2,8 @@ import 'package:diu_go/screens/login_page.dart';
 import 'package:diu_go/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
 
+import 'widgets/bottonbar.dart';
+
 void main() {
   runApp(const MyApp());
 }

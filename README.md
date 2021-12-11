@@ -2,6 +2,8 @@
 ![Banner](./assets/ui2.jpg)
 ![Banner](./assets/ui3.jpg)
 ![Banner](./assets/ui4.jpg)
+![Banner](./assets/ui5.jpg)
+![Banner](./assets/ui6.jpg)
 
 
 # diu_go
